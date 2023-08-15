@@ -1,0 +1,61 @@
+Manual de Usuario - Sistema de Gestión de Créditos
+
+Introducción:
+El Sistema de Gestión de Créditos es una aplicación diseñada para administrar y manipular información relacionada con créditos. Permite realizar diversas tareas, como listar datos, crear nuevos archivos, migrar información, filtrar clientes, crear nuevos clientes, buscar y modificar registros, y realizar bajas lógicas. A continuación, se describen las funcionalidades y el uso de cada una de ellas.
+
+Instrucciones de Uso:
+
+Al iniciar el programa, se muestra un menú con diferentes opciones numeradas.
+
+Para seleccionar una opción, ingresa el número correspondiente y presiona "Enter".
+
+1. Listar CSV:
+Esta opción permite listar los datos almacenados en un archivo CSV.
+Se mostrará en pantalla la información contenida en el archivo.
+
+2. Crear Nuevo Archivo Binario:
+Esta opción crea un nuevo archivo binario llamado "creditos.dat".
+Se solicitará al usuario confirmación antes de crear el archivo.
+
+3. Migrar Datos de CSV a Archivo Binario:
+Esta opción permite migrar los datos de un archivo CSV al archivo binario "creditos.dat".
+Asegúrate de haber creado previamente el archivo binario antes de utilizar esta opción.
+
+4. Filtrar Datos de los Clientes:
+Esta opción permite filtrar los datos de los clientes según diferentes criterios.
+El usuario deberá seleccionar una de las siguientes opciones de filtrado:
+Mostrar todos los clientes (activos e inactivos).
+Mostrar solo los clientes activos.
+Filtrar por tipo de crédito ingresado por teclado.
+Filtrar por un rango de "total cuota" especificado.
+
+5. Crear Nuevo Cliente:
+Esta opción permite registrar un nuevo cliente en el sistema.
+Se solicitarán los datos del cliente, como nombre, importe, tipo de crédito, fecha, etc.
+
+6. Búsqueda (Número de Orden / Apellido):
+Esta opción permite buscar un cliente por número de orden o por apellido.
+El usuario deberá seleccionar una de las opciones de búsqueda.
+Se mostrará en pantalla la información del cliente encontrado.
+
+7. Modificar Cliente:
+Esta opción permite modificar el importe y el tipo de crédito de un cliente existente.
+El usuario deberá proporcionar el número de orden del cliente a modificar.
+Se solicitarán los nuevos valores para el importe y el tipo de crédito.
+
+8. Baja Lógica:
+Esta opción realiza una baja lógica de un cliente, marcándolo como inactivo en el sistema.
+El usuario deberá proporcionar el número de orden del cliente a dar de baja.
+
+9. Baja Física:
+Esta opción está pendiente de implementación y no se encuentra disponible.
+
+10. Baja Listar XYZ:
+Esta opción está pendiente de implementación y no se encuentra disponible.
+Importante:
+
+Asegúrate de seguir las instrucciones proporcionadas por el programa en cada opción.
+Ten en cuenta que algunas opciones pueden requerir archivos o datos previamente generados.
+
+Nota final:
+Por motivos de tiempo y alcance, las opciones 9 y 10 no se encuentran implementadas

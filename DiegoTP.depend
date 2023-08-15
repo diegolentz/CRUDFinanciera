@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1687293090 source:c:\users\windows10\desktop\diegotp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
+1687287102 c:\users\windows10\desktop\diegotp\funciones.h
+
+1687293640 source:c:\users\windows10\desktop\diegotp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
+1687293090 source:c:\users\windows10\desktop\lentzdiego\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
+1687287102 c:\users\windows10\desktop\lentzdiego\funciones.h
+
+1687293640 source:c:\users\windows10\desktop\lentzdiego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<ctype.h>
+	<time.h>
+	"funciones.h"
+
